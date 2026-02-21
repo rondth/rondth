@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Eron Dathan, currently studying CS @ NUS with a background in Machine Learning and Full-stack app development leveraging Python, JavaScript, TypeScript, Golang, and PostgreSQL. I'm open to roles and open projects in these fields. Feel free to look at my projects and reach out!
+👋 Hi, I'm Eron Dathan, currently studying CS @ NUS with a background in Machine Learning and Full-stack app development leveraging Python, JavaScript, TypeScript, Golang, and PostgreSQL. 
+
+I'm open to roles and open projects in these fields. 
+
+Feel free to look at my projects and reach out!
 
 
 ## 🌐 Socials:
